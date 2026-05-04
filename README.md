@@ -40,9 +40,31 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hashemi1997ali/hashemi1997ali/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hashemi1997ali.hashemi1997ali" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a><!--
   --><a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt" />
 </p>
