@@ -28,36 +28,14 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### Habit Tracker
-A responsive habit tracking app built to practice React components, state management, UI structure, and deployment.
-
-🔗 Live Demo: https://habit-tracker-yv55.onrender.com  
-🔗 Repository: https://github.com/hashemi1997ali/habit-tracker
-
-### CineLog
-A movie diary project using the TMDB API, built with vanilla JavaScript, localStorage, and responsive UI design.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hashemi1997ali&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashemi1997ali&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img src="https://streak-stats.demolab.com?user=hashemi1997ali&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=hashemi1997ali&theme=tokyonight&hide_border=true" 
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashemi1997ali&theme=tokyonight" />
 </p>
 
 ---
